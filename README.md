@@ -15,7 +15,7 @@
 
  **IV семестар**
    - Софтверско Инженерство
-   - Оперативни Системи
+   - [Оперативни Системи](https://github.com/daracoo/OS)
    - [Визуелно Програмирање](https://github.com/daracoo/VizuelnoProgramiranje)
 
 **V семестар**
